@@ -42,7 +42,6 @@ data/
 Thumbs.db
 
 # Matplotlib
-*.png
 *.jpg
 *.jpeg
 *.pdf
